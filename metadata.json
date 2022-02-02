@@ -1,0 +1,8 @@
+{
+  "name": "Window Switcher Options",
+  "description": "Give additional options to customiza the gnome window switcher behavior",
+  "uuid": "windowswitcheroptions@clementsauvage.com",
+  "shell-version": [
+    "3.36"
+  ]
+}
